@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7be53cd6f27d4483a8097fd4041ee4c3
+timeCreated: 1434821508
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - healthRedBegin: {fileID: 145426, guid: 5326a377e20224d6b851e86f1a508341, type: 2}
+  - healthRedFill: {fileID: 180434, guid: 30c141dd797e44b3ba29d38ae2c54f24, type: 2}
+  - healthRedEnd: {fileID: 179160, guid: 2005e350c5e554322ab383fb614ecd2f, type: 2}
+  - healthGoldBegin: {fileID: 102294, guid: 1ab4cae3e17b740f0b05aaa8015b7777, type: 2}
+  - healthGoldFill: {fileID: 191998, guid: 48bf1ce6d07e54a7697dc00513a9abbc, type: 2}
+  - healthGoldEnd: {fileID: 178298, guid: 600b98269312d4fa3a04359cdd1a071f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

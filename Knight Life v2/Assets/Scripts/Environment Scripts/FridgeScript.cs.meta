@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5e6ab8cc0d06c4c47a7f7ad817008b57
+timeCreated: 1434203526
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - closed: {fileID: 21300000, guid: 96caddb3c93f54fd7b0de8b0331b5c26, type: 3}
+  - open: {fileID: 21300000, guid: a0b1d2dc0874f446b8c1168aa920bb15, type: 3}
+  - lettuce: {fileID: 109628, guid: edb42ef87eaa34c4cb1a3578b570bc6d, type: 2}
+  - mayo: {fileID: 145064, guid: 0204cfd9357c3483aa1801ea20ef608b, type: 2}
+  - bread: {fileID: 105702, guid: 1e76fc91432024ed89cb0cb7c87d4165, type: 2}
+  - chicken: {fileID: 193600, guid: de4906108a64341aa8bdb73485f6c870, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

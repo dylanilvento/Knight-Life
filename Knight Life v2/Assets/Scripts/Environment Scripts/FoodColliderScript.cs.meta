@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d95d89ef9a74645999cc7b2f856eca47
+timeCreated: 1434240602
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - uiText: {fileID: 11428034, guid: b9c0ac047f2ac41d3885b4428c5b9ffa, type: 2}
+  - uiTextBG: {fileID: 11470272, guid: 84d3a5b0fc02746d5bba5db17f2d9c7c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

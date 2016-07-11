@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: dff816db25fea4008b6db3de735df936
+timeCreated: 1438452539
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_0
+    21300002: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_1
+    21300004: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_2
+    21300006: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_3
+    21300008: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_4
+    21300010: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_5
+    21300012: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_6
+    21300014: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_7
+    21300016: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_8
+    21300018: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_9
+    21300020: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_10
+    21300022: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_11
+    21300024: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_12
+    21300026: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_13
+    21300028: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_14
+    21300030: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5880
+        width: 910
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_1
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 5880
+        width: 910
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5040
+        width: 910
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_3
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 5040
+        width: 910
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 910
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_5
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 4200
+        width: 910
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 910
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_7
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3360
+        width: 910
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 910
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_9
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2520
+        width: 910
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 910
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_11
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1680
+        width: 910
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 910
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_13
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 840
+        width: 910
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 910
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KnightLifeLogo_Flag_Ruffle_SpriteSheetLg_15
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 910
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
