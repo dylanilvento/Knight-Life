@@ -9,20 +9,18 @@ public class ExplosionScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-	
+		StartCoroutine(WaitToDestroy());
 	}
 	
 	// Update is called once per frame
 	void Update () {
 
-		if (!animStarted) {
-			
-			animCnt++;
-			
-			if (animCnt == 15) {
-				Destroy(this.gameObject);
-			}
-		}
 	
+	}
+
+	IEnumerator WaitToDestroy()
+	{
+		yield return new WaitForSeconds(1.5f);
+		Destroy(this.gameObject);
 	}
 }
