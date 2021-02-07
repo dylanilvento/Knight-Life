@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         Cursor.visible = false;
+        QualitySettings.vSyncCount = 1;
     }
 
     // Update is called once per frame
